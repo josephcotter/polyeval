@@ -1,4 +1,4 @@
-//JOEY COTTER FLOATING POINT POLYNOMIAL EVALUATOR 2016 
+//JOEY COTTER FLOATING POINT POLYNOMIAL EVALUATOR 2017
         .syntax     unified
         .cpu        cortex-m4
         .text
